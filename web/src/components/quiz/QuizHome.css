@@ -5,7 +5,7 @@
 
 #welcome h2,
 #welcome p {
-  margin-bottom: 2vh;
+  margin-bottom: 1rem;
 }
 
 #welcome p {
@@ -13,5 +13,5 @@
 }
 
 #welcome img {
-  margin-top: 4vh;
+  margin-top: 2rem;
 }
