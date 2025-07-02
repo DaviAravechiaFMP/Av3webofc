@@ -1,2 +1,3 @@
-# Av3webofc
-Trabalho para a conclusão de semestre na matéria de praticas de programação web
+# App Quiz Javascript
+
+Esse código é do [tutorial feito no meu canal do YouTube](https://www.youtube.com/watch?v=IV34pOplBsY)

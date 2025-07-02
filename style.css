@@ -1,0 +1,68 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Comic Sans MS', 'Arial Rounded MT Bold', cursive, sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #fceabb, #f8b500);
+  min-height: 100vh;
+  padding: 20px;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 400px;
+}
+
+.logo {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #5a3d91;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #444;
+}
+
+.options {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.option {
+  background-color: #fff;
+  padding: 20px 30px;
+  border-radius: 15px;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #333;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, background-color 0.3s;
+}
+
+.option:hover {
+  background-color: #fdd835;
+  transform: scale(1.05);
+}
+
+.quiz {
+  border: 3px solid #7e57c2;
+}
+
+.memory {
+  border: 3px solid #66bb6a;
+}
